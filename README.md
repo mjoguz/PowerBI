@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mehmet J. Oguz
 
-🎯 Senior Data Analyst | Power BI | SQL | Predictive Analytics  
+🎯 Data Analyst | Power BI | SQL | Predictive Analytics  
 🔐 Active Security Clearance | Focused on Government, Education, and Healthcare Systems
 
 ## 🚀 Featured Projects
