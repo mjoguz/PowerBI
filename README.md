@@ -19,7 +19,7 @@ Integrated dashboard for project visibility using live metrics and automation.
 # Data Catalog App – Power BI + Power Apps
 
 ## 🔍 Overview
-Built for the U.S. Air Force to visualize 150,000+ data elements. Features include system relationship mapping, data lineage, and advanced filtering across 20+ integrated systems.
+Built to visualize 150,000+ data elements. Features include system relationship mapping, data lineage, and advanced filtering across 20+ integrated systems.
 
 ## 🛠 Tools Used
 - Power BI
